@@ -12,3 +12,4 @@ print()
 data = ['\U0001F95A', '\U0001F414']  # <5>
 print("unsorted:", data)
 print("sorted:", sorted(data))
+
